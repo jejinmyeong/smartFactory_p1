@@ -16,7 +16,7 @@
 
 <h2>main.c</h2>
 
-![image](https://user-images.githubusercontent.com/60130075/120775613-534bb400-c55e-11eb-8ed1-dd6bcd1c7a59.png)
+![3](https://user-images.githubusercontent.com/60130075/120775977-b2a9c400-c55e-11eb-9b2e-2f4c82a3b153.PNG)
 
 <weather.csv 파일을 READ하여 불쾌지수를 계산하고 LED점등>
 
