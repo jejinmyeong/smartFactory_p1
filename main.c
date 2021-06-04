@@ -42,8 +42,6 @@ int main() {
 		}
 		fclose(pFile);
 	
-		
-printf("\n");
 		for (int i = 0; i < 3; i++){
 			for (int j = 0 ; j < 2 ; j++){
 				printf("%d ", p[i][j]);
@@ -53,6 +51,7 @@ printf("\n");
 		
 		int seoulTemp = p[2][0];
 		int seoulHumi = p[2][1];
+		
 		printf("seoulTemp: %d\nseoulHumi: %d\n", seoulTemp, seoulHumi);
 
 		float discomfort = (seoulTemp*9)/5 - 0.55*(1-seoulHumi/100)*(((seoulTemp*9)/5)-26)+32;
