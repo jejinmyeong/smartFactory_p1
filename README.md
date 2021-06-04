@@ -17,6 +17,6 @@
 <weather.csv 파일을 READ하여 불쾌지수를 계산하고 LED점등>
 
 <h2>result</h2>
-
+![4](https://user-images.githubusercontent.com/60130075/120775736-77a79080-c55e-11eb-9a7a-8bb428246d3a.PNG)
 
 
